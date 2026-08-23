@@ -6,6 +6,9 @@ entirely from the command line.
     services.jar -> extract dex -> baksmali -> patch smali -> smali assemble
                  -> repack jar -> Magisk module zip
 
+                 <img width="1075" height="769" alt="smpx-cli" src="https://github.com/user-attachments/assets/4d8f68d8-40d2-4dbd-a0b0-3b8edcfdffd7" />
+
+
 ## Requirements
 
 - Python 3.10+ (stdlib only, no pip installs)
