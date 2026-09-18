@@ -1,4 +1,4 @@
-# SmaliPatcherEx CLI
+# SmaliPatcherEx platL
 
 Patch Android `services.jar` and pack the result into a Magisk module —
 entirely from the command line.
