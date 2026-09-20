@@ -6,7 +6,7 @@ entirely from the command line.
     services.jar -> extract dex -> baksmali -> patch smali -> smali assemble
                  -> repack jar -> Magisk module zip
 
-<img width="1075" height="769" alt="smpx-cli" src="https://github.com/user-attachments/assets/c47b56e4-7042-452e-afd5-47e4dab637df" />
+<img width="1075" height="769" alt="smpx-cli" src="https://github.com/ctrteam/ctrteam/blob/14082d5811387942bb8ea98992beb3382c0e5fe2/1789877258185.png" />
 
 ## Requirements
 
